@@ -1,5 +1,5 @@
 # Atom 1.0.0
-AI TTS/STT interativa
+AI TTS/STT interativa e customizavel
 
 ## Demo
 https://twitter.com/oi_mateuz/status/1136461395866849280
@@ -7,17 +7,17 @@ https://twitter.com/oi_mateuz/status/1136461395866849280
 ## Funcionalidades
 * Reconhecimento de fala
 * Fala (Atualmente usando "IVONA 2 Ricardo OEM")
-* Comandos de voz personalizaveis (cheque C:\Atom\Falas\falas.json)
+* Comandos de voz personalizaveis (em `C:\Atom\Falas\falas.json`) - Veja [Criando Falas.md](Criando%20Falas.md)
 * Plano de fundo customizavel (winapi) com HTML
 
 ## Requisitos
 * Windows 7+
 * Microsoft Speech API (Recognition)
 * System Speech API (Synthesis)
-* Alterar pacote de fala (caso não saiba, defina a variavel ```dev = true``` para listar os pacotes disponíveis)
+* Alterar pacote de fala (caso não saiba, defina a variavel `dev = true` para listar os pacotes disponíveis)
 
 ## Configurações das pastas
-Ao fazer o Download do projeto, a pasta Atom deve estar no caminho ```C:\Atom```.
+Ao fazer o Download do projeto, a pasta Atom deve estar no caminho `C:\Atom`.
 
 ## Funciona bem com
 Rainmeter (skins):  
