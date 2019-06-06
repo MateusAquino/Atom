@@ -1,0 +1,1 @@
+source.setAttribute('src', 'C:/Atom/Tocador/am.mp4'); video.appendChild(source); video.play();

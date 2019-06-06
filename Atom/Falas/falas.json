@@ -1,0 +1,27 @@
+[
+	{
+		"fala": "computador",
+		"resposta": "sim mestre",
+		"libera": [
+			{
+				"fala": "aquela do Arctic Monkeys",
+				"resposta": "tem certeza mestre?",
+				"libera": [
+					{
+						"fala": "sim|tenho",
+						"resposta": "voce que sabe mestre",
+						"cmd": "play C:/Atom/Tocador/am.mp4"
+					}
+				]
+			}, {
+				"fala": "atualizar",
+				"resposta": "feito mestre",
+				"cmd": "atlz"
+			}, {
+				"fala": "chega|para",
+				"resposta": "feito mestre",
+				"cmd": "unplay"
+			}
+		]
+	}
+]
